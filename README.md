@@ -13,7 +13,7 @@ Repositório desenvolvido para descompactar diversos arquivos zipados.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- Python
 - Git e Github
 
 ## 💻 Projeto
